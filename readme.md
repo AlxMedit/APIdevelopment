@@ -205,4 +205,7 @@ Se utiliza el sistema de rutas de React (`react-router-dom`) para navegar entre 
 
 El componente `Navbar` se actualiza dinámicamente según el estado de autenticación, mostrando u ocultando opciones como "Mi cuenta" o "Cerrar sesión".
 
+[Repositorio del cliente en React](https://github.com/AlxMedit/clienteAPIReact) // https://github.com/AlxMedit/clienteAPIReact
+
+
 ---
